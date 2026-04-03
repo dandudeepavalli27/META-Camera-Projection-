@@ -1,5 +1,6 @@
 # META-Camera-Projection-
 #Aim
+
 To compute the 2D image coordinate from 3D world coordinates using the pinhole camera model.
 General Objective
 To understand the principles of camera geometry and how 3D world coordinates are projected onto a 2D image plane using the pinhole camera model, as applied in AR/VR systems.
